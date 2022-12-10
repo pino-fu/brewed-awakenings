@@ -1,10 +1,3 @@
-/*
-
-    This module contains all of the data, or state, for the
-    application. It exports two functions that allow other
-    modules to get copies of the state.
-
-*/
 const database = {
     employees: [{
         id: 1,
